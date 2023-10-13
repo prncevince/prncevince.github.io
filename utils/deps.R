@@ -1,8 +1,0 @@
-library(lintr)
-library(quarto)
-library(servr)
-library(styler)
-library(downlit)
-library(rprojroot)
-library(rstudioapi)
-library(languageserver)
